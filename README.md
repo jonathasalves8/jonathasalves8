@@ -13,6 +13,7 @@ These are some of the technologies and tools that I work with:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-100000?style=flat-square&logo=laravel)
+![Adianti Framework](https://img.shields.io/badge/Adianti_Framework-FF6D00?style=flat-square&logo=codeigniter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
