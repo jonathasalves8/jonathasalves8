@@ -27,6 +27,7 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/GitLab-100000?style=flat-square&logo=gitlab)
 ![Moodle](https://img.shields.io/badge/Moodle-100000?style=flat-square&logo=moodle)
+![Drupal](https://img.shields.io/badge/Drupal-100000?style=flat-square&logo=drupal)
 
 ## :white_check_mark: More Stats
 
